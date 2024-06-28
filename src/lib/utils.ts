@@ -41,5 +41,6 @@ export function constructMetadata({
       creator: "@_adanishthomas",
     },
     icons,
+    metadataBase: new URL("https://cobracase-rho.vercel.app/"),
   };
 }
